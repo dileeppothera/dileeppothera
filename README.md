@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dileeppothera
-- 👀 I’m interested in android apps development
+- 👀 I’m interested in android/ios apps development
 - 🌱 I’m currently using flutter SDK for developing apps
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 reach me on dileeppothera7@gmail.com
